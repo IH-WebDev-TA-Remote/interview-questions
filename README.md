@@ -1,8 +1,8 @@
 # Links to interview questions
 
-### [General JS Questions](https://github.com/IH-WebDev-TA-Remote/interview-questions/js/README.md)
-### [Backend Questions](https://github.com/IH-WebDev-TA-Remote/interview-questions/node/README.md)
-### [React Questions](https://github.com/IH-WebDev-TA-Remote/interview-questions/react/README.md)
+### [General JS Questions](https://github.com/IH-WebDev-TA-Remote/interview-questions/blob/master/js/README.md)
+### [Backend Questions](https://github.com/IH-WebDev-TA-Remote/interview-questions/blob/master/node/README.md)
+### [React Questions](https://github.com/IH-WebDev-TA-Remote/interview-questions/blob/master/react/README.md)
 
 # Additional Documentation
 
